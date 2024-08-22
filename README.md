@@ -37,22 +37,22 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [CLIPBOARD LANDING PAGE 🎯](https://github.com/aratidsa/Clipboard-Landing-Page) |
-  | Live Site URL: | https://design-clipboard-landing-page.netlify.app/ |
+  | Solution URL: | [FAQ ACCORDION CARD 🎯](https://github.com/aratidsa/FAQ-Accordion-Card) |
+  | Live Site URL: | https://design-faq-accordion-card.netlify.app/ |
   |||
 
 <br>
 
 ## The Challenge
 
-- The challenge is to build out thisClipboard Landing Page and get it looking as close to the design as possible.
+- The challenge is to build out this FAQ Accordion Card and get it looking as close to the design as possible.
 - Users should be able to:
-    - View the optimal layout for the site depending on their device's screen size
+    - Hide/Show the answer to a question when the question is clicked
+    - View the optimal layout for the component depending on their device's screen size
     - See hover states for all interactive elements on the page
+    - **Bonus**: Complete the challenge without using JavaScript
 
 <br>
-
-
 
 ## **Preview**
 
@@ -60,12 +60,13 @@
   <p><b>Desktop Preview</b></p>
   <br>
  
-   ![design-clipboard-landing-page-netlify-ap](https://github.com/user-attachments/assets/6e75d1df-cc35-4ca7-a3f7-e81823419d3e)
+   ![![screencapture-127-0-0-1-5500-index-html-2024-08-22-19_30_09](https://github.com/user-attachments/assets/d14109ec-8ac9-4e8f-845b-37bc86be92c2)
 
   <br>
   <p><b>Mobile Preview</b></p>
   
-![screencapture-127-0-0-1-5500-index-html-2024-08-16-13_30_29](https://github.com/user-attachments/assets/c9fec1f3-1841-45dd-b103-f6c8a88c149e)
+![![screencapture-127-0-0-1-5500-index-html-2024-08-22-19_30_30](https://github.com/user-attachments/assets/8503be53-0f93-4c38-90de-04e98fcdd340)
+
 <br>
 </div>
 
@@ -91,7 +92,10 @@
 ## **Let's Connect 👋**
 
 <div align=center>
-
+   <a href="www.linkedin.com/in/arati-dsa-313626136" >
+    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.frontendmentor.io/profile/aratidsa" >
     <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor Profile">
   </a> &nbsp;&nbsp;&nbsp;
