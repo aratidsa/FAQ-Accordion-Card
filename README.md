@@ -7,7 +7,7 @@
     <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://design-clipboard-landing-page.netlify.app/">View Demo</a>
+    <a href="https://design-faq-accordion-card.netlify.app/">View Demo</a>
     &nbsp;·&nbsp;
   </p>
 </div>
@@ -92,7 +92,7 @@
 ## **Let's Connect 👋**
 
 <div align=center>
-   <a href="www.linkedin.com/in/arati-dsa-313626136" >
+   <a href="https://www.linkedin.com/in/arati-dsa-313626136" >
     <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
   </a>&nbsp;&nbsp;&nbsp;
   
