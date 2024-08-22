@@ -2,9 +2,9 @@
 
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
 
-  <h2 align="center">Clipboard Landing Page Solution</h2>
+  <h2 align="center">FAQ Accordion Card Solution</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://design-clipboard-landing-page.netlify.app/">View Demo</a>
