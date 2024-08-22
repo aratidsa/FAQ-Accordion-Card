@@ -26,7 +26,7 @@
 
   <!-- Difficulty -->
   <a href="https://www.frontendmentor.io/challenges?difficulties=1"  >
-    <img src="https://img.shields.io/badge/Difficulty-Junior-AAC745?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Junior">
+    <img src="img src="https://img.shields.io/badge/Difficulty-Newbie-61BECD?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Newbie">
   </a>
 
 </div>
