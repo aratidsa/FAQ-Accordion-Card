@@ -33,23 +33,6 @@
 <br />
 <br />
 
-
-
-## **Preview**
-
-<div align='center'>
-  <p><b>Desktop Preview</b></p>
-  <br>
- 
-   ![design-clipboard-landing-page-netlify-ap](https://github.com/user-attachments/assets/6e75d1df-cc35-4ca7-a3f7-e81823419d3e)
-
-  <br>
-  <p><b>Mobile Preview</b></p>
-  
-![screencapture-127-0-0-1-5500-index-html-2024-08-16-13_30_29](https://github.com/user-attachments/assets/c9fec1f3-1841-45dd-b103-f6c8a88c149e)
-<br>
-</div>
-
 ## **Links**
 
 - |||
@@ -69,6 +52,22 @@
 
 <br>
 
+
+
+## **Preview**
+
+<div align='center'>
+  <p><b>Desktop Preview</b></p>
+  <br>
+ 
+   ![design-clipboard-landing-page-netlify-ap](https://github.com/user-attachments/assets/6e75d1df-cc35-4ca7-a3f7-e81823419d3e)
+
+  <br>
+  <p><b>Mobile Preview</b></p>
+  
+![screencapture-127-0-0-1-5500-index-html-2024-08-16-13_30_29](https://github.com/user-attachments/assets/c9fec1f3-1841-45dd-b103-f6c8a88c149e)
+<br>
+</div>
 
 ## **Built With**
 
