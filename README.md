@@ -60,12 +60,12 @@
   <p><b>Desktop Preview</b></p>
   <br>
  
-   ![![screencapture-127-0-0-1-5500-index-html-2024-08-22-19_30_09](https://github.com/user-attachments/assets/d14109ec-8ac9-4e8f-845b-37bc86be92c2)
+   ![screencapture-127-0-0-1-5500-index-html-2024-08-22-19_30_09](https://github.com/user-attachments/assets/d14109ec-8ac9-4e8f-845b-37bc86be92c2)
 
   <br>
   <p><b>Mobile Preview</b></p>
   
-![![screencapture-127-0-0-1-5500-index-html-2024-08-22-19_30_30](https://github.com/user-attachments/assets/8503be53-0f93-4c38-90de-04e98fcdd340)
+![screencapture-127-0-0-1-5500-index-html-2024-08-22-19_30_30](https://github.com/user-attachments/assets/8503be53-0f93-4c38-90de-04e98fcdd340)
 
 <br>
 </div>
